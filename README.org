@@ -1,0 +1,9 @@
+* Second-Class Values for Safer Effect Handlers
+
+** Thesis
+   
+Full text of the thesis is available here: [[file:thesis.pdf]].
+
+** Thesis Defense
+   
+The slides of my thesis defense can be found here: [[file:presentation.pdf]].
